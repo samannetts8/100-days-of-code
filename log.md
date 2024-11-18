@@ -20,7 +20,7 @@
 
 **Thoughts**: Establishing the basic set up of index.html and linking the new websites was straightforward. It was good practice getting familiar with constructing the elements and links.
 
-**Link to work:** [odin_recipes]([https://github.com/samannetts8/odin_recipes])
+**Link to work:** [[odin_recipes]](https://github.com/samannetts8/odin_recipes)
 
 ### Day 3: November 9, 2024
 
@@ -40,4 +40,4 @@
 
 **Thoughts:** This was a useful exercise as it familiarised myself more with different psuedoclasses and taught me more about using HTML containers more flexibily
 
-**Link to work:** [odin_recipes]([https://github.com/samannetts8/odin_recipes])
+**Link to work:** [odin_recipes][https://github.com/samannetts8/odin_recipes]
