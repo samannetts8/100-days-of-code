@@ -85,3 +85,11 @@
 **Thoughts:** Again, I learnt even more about how to actually apply inline vs block styles for elements in this process, and I am very happy with how the site looks in the end. I may come back to try and add further JS animations in an attempt to develop these skills, but I may also take on a new project instead.
 
 **Link to course:** [[odin_recipes]](https://github.com/samannetts8/odin_recipes)
+
+### Day 13: November 18, 2024
+
+**Today's Progress**: Continued working through the educative.io programme 'Learn HTML, CSS and JavaScript from Scratch' where I gained a greater understanding of how to implement Javascript into HTML files - specifically, I practiced interacting with a range of different event listeners.
+
+**Thoughts:** This has been a really useful exercise of revising what I learnt throughout the SoC learning materials for a few reasons: 1) It covers the same ideas in different words, meaning I could have areas of lesser confidence explained in a different way, 2) It provides small coding challenges and exercises as I go through to make sure the information doesn't remain as theory and 3) covers different elements such as buttons, semantic tags and forms which weren't directly covered in the SoC materials. 
+
+**Link to course:** [[educative.io]](https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
