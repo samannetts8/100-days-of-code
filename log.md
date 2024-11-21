@@ -101,3 +101,12 @@
 **Thoughts:** This whole course was massively helpful given the additional light shed on how to integrate JavaScript and CSS into an HTML web page, with the accompanying coding exercises and challenges being instrumental in cementing my understanding
 
 **Link to course:** [[educative.io]](https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
+
+### Day 15: November 21, 2024
+
+**Today's Progress**: Began work on my first big programming project 'Pour Decisions'
+
+**Thoughts:** Given my HTML, CSS and Javascript skills will likely develop as I continue through the School of Code bootcamp, I have opted to take on a broader type of project that will have me working with databases and other languages including Python, Java and others.
+
+**Link to course:** 
+
