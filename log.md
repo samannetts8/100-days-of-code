@@ -106,7 +106,7 @@
 
 **Today's Progress**: Began work on my first big programming project 'Pour Decisions'
 
-**Thoughts:** Given my HTML, CSS and Javascript skills will likely develop as I continue through the School of Code bootcamp, I have opted to take on a broader type of project that will have me working with databases and other languages including Python, Java and others.
+**Thoughts:** Given my HTML, CSS and Javascript skills will likely develop as I continue through the School of Code bootcamp, I have opted to take on a broader type of project that will have me working with databases and other languages including Python, Java and others. I have not began the specific coding of this project just yet, though I have updated the README file to give context to this project, and I have spent multiple hours rearching the tech stack I will need complete this project
 
 **Link to course:** 
 
