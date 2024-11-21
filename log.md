@@ -93,3 +93,11 @@
 **Thoughts:** This has been a really useful exercise of revising what I learnt throughout the SoC learning materials for a few reasons: 1) It covers the same ideas in different words, meaning I could have areas of lesser confidence explained in a different way, 2) It provides small coding challenges and exercises as I go through to make sure the information doesn't remain as theory and 3) covers different elements such as buttons, semantic tags and forms which weren't directly covered in the SoC materials. 
 
 **Link to course:** [[educative.io]](https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
+
+### Day 14: November 19, 2024
+
+**Today's Progress**: Completed the educative.io programme 'Learn HTML, CSS and JavaScript from Scratch'
+
+**Thoughts:** This whole course was massively helpful given the additional light shed on how to integrate JavaScript and CSS into an HTML web page, with the accompanying coding exercises and challenges being instrumental in cementing my understanding
+
+**Link to course:** [[educative.io]](https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
