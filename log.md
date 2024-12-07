@@ -155,6 +155,19 @@
 
 **Thoughts:**  Today was the final day of our first hackathon, consisting of a final few hours of prep before we prepared our presentation materials ahead of the afternoon's demonstration. Thanks to our clearly laid out plans and rigorous note taking, we easily completed the hackathon within our expected timeline and got fantastic feedback on our presentation. After reaching out for personalised feedback after the meeting, I was told that I might benefit from focusing on a more concise message, though the evaluator was very complimentary and supportive of my work as a whole.
 
+### Day 23: November 29, 2024
 
+**Today's Progress**: Created initial planning documents and flow charts outlining my Pour Decisions project.
 
+**Thoughts:**  Using a few techniques I learnt during my first week on the School of Code bootcamp, I have created the high-level flow plan detailing how the user interactions will flow through the final web app that I will be creating. During this process, a Disney ideation stage allowed me to expand on my original vision of what I might hope to accomplish in this project, whilst a subsequent 'Realist' exercise meant I was able to focus in on the most promising ideas I can come up with, and set about establishing a plan to get them done. As a result, my latest plan should now see the app offer three key services: 1. Image scanning and score return, 2. General wine database queries and 3. A personal saved Favourites list.
+
+**Link to course:**: [[github]](https://github.com/samannetts8/Pour_Decisions)
+
+### Day 24: November 30, 2024
+
+**Today's Progress**: Finalised the MVP 1 chart, opted to address Wine Database pathway first and researched best means of database population.
+
+**Thoughts:**  Taking a step back, the Wine Database service was the obvious starting point for this project as it is the most immediately implementable operation that I can create for a user once the populated database and functioning backend have been created. Given this, I started focusing on how I would be able to scrape all the relevant data from my target scoring sites (Vivino and Spoonacular). I was able to find an Vivino API (https://github.com/aptash/vivino-api), though this has not been updated in the past 4 years. I spent a few hours researching this kind of data scraping methdology and attempted to update the code to reflect new HTML class names, etc so that I could provide an update to this project. However, I realised the number of required changes essentially made the original code redundant, so I left this approach behind.
+
+**Link to course:**: [[github]](https://github.com/samannetts8/Pour_Decisions)
 
