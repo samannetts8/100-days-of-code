@@ -108,5 +108,53 @@
 
 **Thoughts:** Given my HTML, CSS and Javascript skills will likely develop as I continue through the School of Code bootcamp, I have opted to take on a broader type of project that will have me working with databases and other languages including Python, Java and others. I have not began the specific coding of this project just yet, though I have updated the README file to give context to this project, and I have spent multiple hours rearching the tech stack I will need complete this project
 
-**Link to course:** 
+**Link to course:**: [[github]](https://github.com/samannetts8/Pour_Decisions)
+
+### Day 16: November 22, 2024
+
+**Today's Progress**: To better understand the use of Flask in my upcoming project, I started the educative.io course "Flask: Develop web applications in Python".
+
+**Thoughts:** Beginning this course has already highlighted a lot of areas that I could stand to learn a lot more about before getting too deep into this project. Specifically,the multiple different protocols through which the client and server may communicate, as well as the different methods used by HTTP (Get, Post, Put and Delete). Whilst the course has already taught me a bunch about client adn server roles, I recognise that I need to supplement by fundamental knowledge about internet protocols before I get too deep into this topic.
+
+**Link to course:**: [[educative.io]](https://www.educative.io/courses/flask-develop-web-applications-in-python)
+
+### Day 17: November 23, 2024
+
+**Today's Progress**: Began School of Code Bootcamp 18!
+
+**Thoughts:**  Today's key lessons included optimizing learning through breaks, manageable tasks, and rest, alongside practical skills like crafting confident pitches. The course emphasizes teamwork, a growth mindset, and portfolio building through diverse, collaborative projects. The source lecturers that we heard from today were also very motivational, and I am excited to maintain this energy over the next 4 months. 
+
+
+### Day 18: November 24, 2024
+
+**Today's Progress**: Began School of Code Bootcamp 18!
+
+**Thoughts:**  Today's key lessons included optimizing learning through breaks, manageable tasks, and rest, alongside practical skills like crafting confident pitches. The course emphasizes teamwork, a growth mindset, and portfolio building through diverse, collaborative projects. The source lecturers that we heard from today were also very motivational, and I am excited to maintain this energy over the next 4 months.
+
+### Day 19: November 25, 2024
+
+**Today's Progress**: School of Code Bootcamp: Day 2.
+
+**Thoughts:**  On Day 2 of the School of Code, we received a talk from Ira Rainey, a Senior Developer at Microsoft, who shared his unconventional journey into tech, emphasizing that determination and learning can overcome barriers like imposter syndrome. Ira’s advice to embrace curiosity and ask questions resonated deeply. The day also introduced high-performance routines with four key phases: **preparation** (intentional morning rituals like gym sessions), **focus** (working in distraction-free intervals), **warm-down** (setting boundaries to transition from work to relaxation), and **recovery** (prioritizing sleep and breaks). These lessons highlighted the importance of consistency, patience, and self-compassion in personal and professional growth.
+
+### Day 20: November 26, 2024
+
+**Today's Progress**: School of Code Bootcamp: Day 3.
+
+**Thoughts:**  On Day 3 of the School of Code, we had our first experience of pair programming, overcoming initial awkwardness and hesitations about sharing code while collaborating on CSS challenges. Guest speaker Fadumo Aideed, a former graduate, shared insights on continuous learning and problem-solving, recommending tools like Codewars. Diving into GitHub proved challenging, but working collaborating with my team members definitely lightened this load. The day wrapped up with more GitHub practice, reinforcing the importance of stepping out of comfort zones.
+
+### Day 21: November 27, 2024
+
+**Today's Progress**: School of Code Bootcamp: Day 4.
+
+**Thoughts:**  Day 4 now and we kicked off the first weekly hackathon of this bootcamp. Prior to this though, we kicked off with lessons on giving and receiving feedback, emphasizing the importance of highlighting strengths alongside areas for improvement. We also explored Agile methodology, focusing on its iterative stages—Plan, Design, Develop, Test, Deploy, Review—which foster communication, user-centric development, and bug fixes. The Hackathon began with team brainstorming and collaboration using Git, whilst also applying what we had learnt about Disney Ideation practices, flow diagrams and pseudocode.
+
+### Day 22: November 28, 2024
+
+**Today's Progress**: School of Code Bootcamp: Day 5.
+
+**Thoughts:**  Today was the final day of our first hackathon, consisting of a final few hours of prep before we prepared our presentation materials ahead of the afternoon's demonstration. Thanks to our clearly laid out plans and rigorous note taking, we easily completed the hackathon within our expected timeline and got fantastic feedback on our presentation. After reaching out for personalised feedback after the meeting, I was told that I might benefit from focusing on a more concise message, though the evaluator was very complimentary and supportive of my work as a whole.
+
+
+
 
