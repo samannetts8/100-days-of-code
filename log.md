@@ -167,7 +167,17 @@
 
 **Today's Progress**: Finalised the MVP 1 chart, opted to address Wine Database pathway first and researched best means of database population.
 
-**Thoughts:**  Taking a step back, the Wine Database service was the obvious starting point for this project as it is the most immediately implementable operation that I can create for a user once the populated database and functioning backend have been created. Given this, I started focusing on how I would be able to scrape all the relevant data from my target scoring sites (Vivino and Spoonacular). I was able to find an Vivino API (https://github.com/aptash/vivino-api), though this has not been updated in the past 4 years. I spent a few hours researching this kind of data scraping methdology and attempted to update the code to reflect new HTML class names, etc so that I could provide an update to this project. However, I realised the number of required changes essentially made the original code redundant, so I left this approach behind.
+**Thoughts:**  Taking a step back, the Wine Database service was the obvious starting point for this project as it is the most immediately implementable operation that I can create for a user once the populated database and functioning backend have been created. Given this, I started focusing on how I would be able to scrape all the relevant data from my target scoring sites (Vivino and Spoonacular). I was able to find an Vivino API (https://github.com/aptash/vivino-api), though this has not been updated in the past 4 years. I spent a few hours researching this kind of data scraping methdology and attempted to update the code to reflect new HTML class names, etc so that I could provide an update to this project. However, I realised the degree of adjustment required would validate more work for myself than simply building my own API - an exercise which I would likely learn more from anyway. Therefore, I have decided to no longer pursue this line of action.
+
+**Link to course:**: [[github]](https://github.com/samannetts8/Pour_Decisions)
+
+
+### Day 25: December 01, 2024
+
+**Today's Progress**: Pivoted from live API data scraping tool to use of a fixed database, and successfully produced preliminary .db file of 800+ wines with their relevant details. 
+
+**Thoughts:**  I faced a roadblock today regarding interactions with Vivino's website. Specifically, whilst attempting to update the out-of-date API yesterday, I submitted too many requests to Vivino.com and my IP address was subsequently banned, preventing any further progress using an API. Whilst this ban is stated to be 'temporary', I am unable to data scrape it’s search function to make this backend database through an automated approach.Consequently, I have gone manually copied and pasted the html files for the pages related to a refined database search on Vivino
+The specific filters were “wines between £10 - £30 rated above 4.2 stars”, which yielded 801 wines. This should be enough to populate my database, at least for initial purposes. Over the rest of the day, I was able to refine the data scraper python script to successfully isolate and extract almost all of the data points I wanted to into a table, which I have now converted into a db and csv file. I will look to being developing the backend functions using Flask during my next project session
 
 **Link to course:**: [[github]](https://github.com/samannetts8/Pour_Decisions)
 
