@@ -205,3 +205,16 @@ The specific filters were “wines between £10 - £30 rated above 4.2 stars”,
 **Today's Progress**: School of Code Bootcamp: Week 2 Day 3.
 
 **Thoughts:** We had a talk given by Camilla Brizzi who shared an inspiring messaging with her career journey and advice to “be fearless,” emphasizing the value of courage and networking. As such, I have decided to move my 100 days of code challenge from solely existing on my Github onto my Linkedin! We also drilled down into the multitude of applications and methods of interacting with objects and arrays ahead of our second week hack-a-thon tomorrow. My team and I all shared valuable insights throughout the whole session, as well as staying late to finally nailing down Git flow given this will undoubtably becoming a more crucial tool as we move deeper into the course.
+
+### Day 29: December 05, 2024
+
+**Today's Progress**: School of Code Bootcamp: Week 2 Day 4.
+
+**Thoughts:** Our day began with an enlightening discussion on Myers-Briggs test results, highlighting how personal strengths like creativity, confidence, and communication can benefit teams while recognizing challenges like distraction and overthinking. In the hackathon, Sam’s team used Disney Ideation, flowcharts, and pseudocode to plan their project, culminating in a completed rock-paper-scissors game that incorporated bonus challenges. In this challenge, our team opted to utilise a nested array approach to create payoff matrix, returning the result of a clash when supplied with the computer and user's inputs. We also specifically chose to use alerts and confirm pop ups as much as possible to mitigate the opportunity for invalid user inputs where possible.
+
+
+### Day 29: December 06, 2024
+
+**Today's Progress**: School of Code Bootcamp: Week 2 Day 5.
+
+**Thoughts:** Today's work on the hackathon allowed me to develop in a number of ways. Firstly, on a technical front, the work with the project lead me to learn more about asynchronous functions which I know will become an increasingly useful tool whilst our hackathon projects get progressively more difficult. It also directed me towards soft skill growth opportunities, such as regularly ensuring others understand my approach and process before actioning so that all remained cogent. On top of this, I believe I can still benefit from being more concise in my presentation skills, which can be seen in the fact that our group went slightly overtime in our presentation slot. I will endeavour to improve at this.
