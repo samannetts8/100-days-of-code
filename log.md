@@ -127,31 +127,31 @@
 
 ### Day 18: November 24, 2024
 
-**Today's Progress**: Began School of Code Bootcamp 18!
+**Today's Progress**: Began School of Code Bootcamp 18! Week 1 Day 1.
 
 **Thoughts:**  Today's key lessons included optimizing learning through breaks, manageable tasks, and rest, alongside practical skills like crafting confident pitches. The course emphasizes teamwork, a growth mindset, and portfolio building through diverse, collaborative projects. The source lecturers that we heard from today were also very motivational, and I am excited to maintain this energy over the next 4 months.
 
 ### Day 19: November 25, 2024
 
-**Today's Progress**: School of Code Bootcamp: Day 2.
+**Today's Progress**: School of Code Bootcamp: Week 1 Day 2.
 
 **Thoughts:**  On Day 2 of the School of Code, we received a talk from Ira Rainey, a Senior Developer at Microsoft, who shared his unconventional journey into tech, emphasizing that determination and learning can overcome barriers like imposter syndrome. Ira’s advice to embrace curiosity and ask questions resonated deeply. The day also introduced high-performance routines with four key phases: **preparation** (intentional morning rituals like gym sessions), **focus** (working in distraction-free intervals), **warm-down** (setting boundaries to transition from work to relaxation), and **recovery** (prioritizing sleep and breaks). These lessons highlighted the importance of consistency, patience, and self-compassion in personal and professional growth.
 
 ### Day 20: November 26, 2024
 
-**Today's Progress**: School of Code Bootcamp: Day 3.
+**Today's Progress**: School of Code Bootcamp: Week 1 Day 3.
 
 **Thoughts:**  On Day 3 of the School of Code, we had our first experience of pair programming, overcoming initial awkwardness and hesitations about sharing code while collaborating on CSS challenges. Guest speaker Fadumo Aideed, a former graduate, shared insights on continuous learning and problem-solving, recommending tools like Codewars. Diving into GitHub proved challenging, but working collaborating with my team members definitely lightened this load. The day wrapped up with more GitHub practice, reinforcing the importance of stepping out of comfort zones.
 
 ### Day 21: November 27, 2024
 
-**Today's Progress**: School of Code Bootcamp: Day 4.
+**Today's Progress**: School of Code Bootcamp: Week 1 Day 4.
 
 **Thoughts:**  Day 4 now and we kicked off the first weekly hackathon of this bootcamp. Prior to this though, we kicked off with lessons on giving and receiving feedback, emphasizing the importance of highlighting strengths alongside areas for improvement. We also explored Agile methodology, focusing on its iterative stages—Plan, Design, Develop, Test, Deploy, Review—which foster communication, user-centric development, and bug fixes. The Hackathon began with team brainstorming and collaboration using Git, whilst also applying what we had learnt about Disney Ideation practices, flow diagrams and pseudocode.
 
 ### Day 22: November 28, 2024
 
-**Today's Progress**: School of Code Bootcamp: Day 5.
+**Today's Progress**: School of Code Bootcamp: Week 1 Day 5.
 
 **Thoughts:**  Today was the final day of our first hackathon, consisting of a final few hours of prep before we prepared our presentation materials ahead of the afternoon's demonstration. Thanks to our clearly laid out plans and rigorous note taking, we easily completed the hackathon within our expected timeline and got fantastic feedback on our presentation. After reaching out for personalised feedback after the meeting, I was told that I might benefit from focusing on a more concise message, though the evaluator was very complimentary and supportive of my work as a whole.
 
@@ -181,3 +181,27 @@ The specific filters were “wines between £10 - £30 rated above 4.2 stars”,
 
 **Link to course:**: [[github]](https://github.com/samannetts8/Pour_Decisions)
 
+### Day 26: December 02, 2024
+
+**Today's Progress**: School of Code Bootcamp: Week 2 Day 1.
+
+**Thoughts:**  We started our first week of software engineering with a previous bootcamper Scott Nicholson offering his experienced insights, emphasizing the lasting value of their learning and the principle that there are no stupid questions. The team tackled JavaScript problems using a structured, seven-step solution method, reinforcing the importance of planning before execution.
+
+### Day 27: December 03, 2024
+
+**Today's Progress**: School of Code Bootcamp: Week 2 Day 1.
+
+**Thoughts:**  We started our first week of software engineering with a previous bootcamper Scott Nicholson offering his experienced insights, emphasizing the lasting value of their learning and the principle that there are no stupid questions. My team and I tackled JavaScript problems using a structured, seven-step solution method, reinforcing the importance of planning before execution.
+
+### Day 27: December 03, 2024
+
+**Today's Progress**: School of Code Bootcamp: Week 2 Day 2.
+
+**Thoughts:**  We continued our development as software engineers through a thorough review of functions and if/else statements, agreeing on the importance of slowing down to break problems into manageable steps as, on more than one occassion, we found a bug in our code appearing within the first few lines. We also explored JavaScript concepts like data types, functions, and objects, which store reusable key-value data. A quiz-building task reinforced these skills while emphasizing clean code and comments for clarity, and several pair programming exercises allowed us to practice interacting with these data types. 
+
+
+### Day 28: December 04, 2024
+
+**Today's Progress**: School of Code Bootcamp: Week 2 Day 3.
+
+**Thoughts:** We had a talk given by Camilla Brizzi who shared an inspiring messaging with her career journey and advice to “be fearless,” emphasizing the value of courage and networking. As such, I have decided to move my 100 days of code challenge from solely existing on my Github onto my Linkedin! We also drilled down into the multitude of applications and methods of interacting with objects and arrays ahead of our second week hack-a-thon tomorrow. My team and I all shared valuable insights throughout the whole session, as well as staying late to finally nailing down Git flow given this will undoubtably becoming a more crucial tool as we move deeper into the course.
