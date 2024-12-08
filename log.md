@@ -211,3 +211,11 @@ The specific filters were “wines between £10 - £30 rated above 4.2 stars”,
 **Today's Progress**: School of Code Bootcamp: Week 2 Day 5.
 
 **Thoughts:** Today's work on the hackathon allowed me to develop in a number of ways. Firstly, on a technical front, the work with the project lead me to learn more about asynchronous functions which I know will become an increasingly useful tool whilst our hackathon projects get progressively more difficult. It also directed me towards soft skill growth opportunities, such as regularly ensuring others understand my approach and process before actioning so that all remained cogent. On top of this, I believe I can still benefit from being more concise in my presentation skills, which can be seen in the fact that our group went slightly overtime in our presentation slot. I will endeavour to improve at this.
+
+### Day 31: December 07, 2024
+
+**Today's Progress**: Began building out the backend of my Pour Decisions app.
+
+**Thoughts:** Today was fundamentally a research day for me, as my basic knowledge of flask or backend architecture is very basic, so much of the day was spent researching Flask and confirming it was the best framework for me to use in this case. Having confirmed this to be the case, I found an incredibly useful resource (https://www.tutorialspoint.com/flask/flask_tutorial.pdf) which guided me through the installation and initialisation of Flask, which lead me to create a first "Hello World" local domain using Flask and VS code. I will seek to tie this in more tomorrow, but these first steps and the level of understanding I have gained is very encouraging!
+
+**Link to course:**: [[github]](https://github.com/samannetts8/Pour_Decisions)
