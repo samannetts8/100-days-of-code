@@ -189,16 +189,9 @@ The specific filters were “wines between £10 - £30 rated above 4.2 stars”,
 
 ### Day 27: December 03, 2024
 
-**Today's Progress**: School of Code Bootcamp: Week 2 Day 1.
-
-**Thoughts:**  We started our first week of software engineering with a previous bootcamper Scott Nicholson offering his experienced insights, emphasizing the lasting value of their learning and the principle that there are no stupid questions. My team and I tackled JavaScript problems using a structured, seven-step solution method, reinforcing the importance of planning before execution.
-
-### Day 27: December 03, 2024
-
 **Today's Progress**: School of Code Bootcamp: Week 2 Day 2.
 
-**Thoughts:**  We continued our development as software engineers through a thorough review of functions and if/else statements, agreeing on the importance of slowing down to break problems into manageable steps as, on more than one occassion, we found a bug in our code appearing within the first few lines. We also explored JavaScript concepts like data types, functions, and objects, which store reusable key-value data. A quiz-building task reinforced these skills while emphasizing clean code and comments for clarity, and several pair programming exercises allowed us to practice interacting with these data types. 
-
+**Thoughts:**  We started our first week of software engineering with a previous bootcamper Scott Nicholson offering his experienced insights, emphasizing the lasting value of their learning and the principle that there are no stupid questions. Then followed a thorough review of functions and if/else statements, agreeing on the importance of slowing down to break problems into manageable steps as, on more than one occassion, we found a bug in our code appearing within the first few lines. We also explored JavaScript concepts like data types, functions, and objects, which store reusable key-value data. A quiz-building task reinforced these skills while emphasizing clean code and comments for clarity, and several pair programming exercises allowed us to practice interacting with these data types.  My team and I tackled JavaScript problems using a structured, seven-step solution method, reinforcing the importance of planning before execution.
 
 ### Day 28: December 04, 2024
 
@@ -213,7 +206,7 @@ The specific filters were “wines between £10 - £30 rated above 4.2 stars”,
 **Thoughts:** Our day began with an enlightening discussion on Myers-Briggs test results, highlighting how personal strengths like creativity, confidence, and communication can benefit teams while recognizing challenges like distraction and overthinking. In the hackathon, Sam’s team used Disney Ideation, flowcharts, and pseudocode to plan their project, culminating in a completed rock-paper-scissors game that incorporated bonus challenges. In this challenge, our team opted to utilise a nested array approach to create payoff matrix, returning the result of a clash when supplied with the computer and user's inputs. We also specifically chose to use alerts and confirm pop ups as much as possible to mitigate the opportunity for invalid user inputs where possible.
 
 
-### Day 29: December 06, 2024
+### Day 30: December 06, 2024
 
 **Today's Progress**: School of Code Bootcamp: Week 2 Day 5.
 
