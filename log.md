@@ -219,3 +219,9 @@ The specific filters were “wines between £10 - £30 rated above 4.2 stars”,
 **Thoughts:** Today was fundamentally a research day for me, as my basic knowledge of flask or backend architecture is very basic, so much of the day was spent researching Flask and confirming it was the best framework for me to use in this case. Having confirmed this to be the case, I found an incredibly useful resource (https://www.tutorialspoint.com/flask/flask_tutorial.pdf) which guided me through the installation and initialisation of Flask, which lead me to create a first "Hello World" local domain using Flask and VS code. I will seek to tie this in more tomorrow, but these first steps and the level of understanding I have gained is very encouraging!
 
 **Link to course:**: [[github]](https://github.com/samannetts8/Pour_Decisions)
+
+### Day 30: December 06, 2024
+
+**Today's Progress**: Completed the weekend preparation ahead of SoC's Front End Developer focused week. 
+
+**Thoughts:** Today I spent most of the time explored how to manipulate the DOM. The coordination of elements through the Flexbox module of CSS is clearly an area that I can stand to become more comfortable in, and will require more attention when it comes to implementing in my own project. At the very least, today's work was a great introduction to navigating this toolset. 
