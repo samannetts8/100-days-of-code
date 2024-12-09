@@ -220,7 +220,7 @@ The specific filters were “wines between £10 - £30 rated above 4.2 stars”,
 
 **Link to course:**: [[github]](https://github.com/samannetts8/Pour_Decisions)
 
-### Day 30: December 06, 2024
+### Day 32: December 08, 2024
 
 **Today's Progress**: Completed the weekend preparation ahead of SoC's Front End Developer focused week. 
 
