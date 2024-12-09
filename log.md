@@ -225,3 +225,9 @@ The specific filters were “wines between £10 - £30 rated above 4.2 stars”,
 **Today's Progress**: Completed the weekend preparation ahead of SoC's Front End Developer focused week. 
 
 **Thoughts:** Today I spent most of the time explored how to manipulate the DOM. The coordination of elements through the Flexbox module of CSS is clearly an area that I can stand to become more comfortable in, and will require more attention when it comes to implementing in my own project. At the very least, today's work was a great introduction to navigating this toolset. 
+
+### Day 33: December 09, 2024
+
+**Today's Progress**: School of Code Bootcamp: Week 3 Day 1.
+
+**Thoughts:** To kick off the day, we had a two great guest speakers in @Nadeem Shabir and @Malcolm Landon where they shone light on the extensive tech stacks at work around @Technology From Sage and the business work flows that they champion within their teams. I really appreciate the level of detail and insight that they offered throughout their talk, particularly in areas of project management using Jira, and the test writing procedures expected of professional software developers. Following this, we began out first exercises interacting with the DOM where we learnt to use Javascript to isolate specific nodes and related elements, and had our first taste of flexibly customising their attributes. Finally, I had my first meeting with my mentor @Tomasz Ginszt whom is already proving to be an invaluable resource for my journey! 
